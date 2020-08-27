@@ -1,0 +1,20 @@
+{
+  "name": "node_express_mysql_tutorial_p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "setup": "node setup.js"
+  },
+  "keywords": [],
+  "author": "Christopher Af Bjur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
